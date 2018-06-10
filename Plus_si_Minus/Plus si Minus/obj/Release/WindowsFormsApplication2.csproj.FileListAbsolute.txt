@@ -1,0 +1,8 @@
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\Theo23Phenom\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb

@@ -1,0 +1,40 @@
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.exe
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.pdb
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.csproj.GenerateResource.Cache
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.exe
+C:\Users\Theo23Phenom\Documents\Visual Studio 2008\Projects\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.pdb
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.exe
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.pdb
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.exe
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.pdb
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.csproj.GenerateResource.Cache
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.exe
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.pdb
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.exe
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.pdb
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LILYANA\Desktop\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.csproj.GenerateResource.Cache
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.exe
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\bin\Debug\Plus si Minus.pdb
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\ResolveAssemblyReference.cache
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication1.Form1.resources
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.csproj.GenerateResource.Cache
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.exe
+J:\C#\FINAL PROJECT\Plus si Minus\Plus si Minus\obj\Debug\Plus si Minus.pdb
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\bin\Debug\Plus si Minus.exe
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\bin\Debug\Plus si Minus.pdb
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\obj\Debug\Plus si Minus.csprojResolveAssemblyReference.cache
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\obj\Debug\Plus si Minus.csproj.GenerateResource.Cache
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\obj\Debug\Plus si Minus.exe
+D:\#Facultate\c#\CIA\Rezolvari+Proiect\Projects\Plus si minus all\Plus si Minus backup\Plus si Minus\obj\Debug\Plus si Minus.pdb
